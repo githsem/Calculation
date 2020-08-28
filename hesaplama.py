@@ -12,7 +12,7 @@ print(dekor)
 if (islem == 1):
     print("Isleminizi Sonucu : ",a+b)
 
-elif (islem == 8):
+elif (islem == 2):
     print("Isleminizi Sonucu : ",a-b)
 
 elif (islem == 3):
