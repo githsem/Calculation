@@ -8,7 +8,7 @@ print("Yapmak Istediginiz Islemi Seciniz :")
 print(dekor)
 print("1. Toplama\n2. Cikarma\n3. Carpma\n4. Bolme")
 print(dekor)
-
+print("hall0")
 islem = int(input())
 
 if (islem == 1):
